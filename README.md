@@ -50,5 +50,5 @@ reduce the overfitting of the model. </li>
 <ul>
     <li> Root Mean Square Error: 0.9894429065605955</li>
     <li>Activation Functions: Nadam</li>
-    <li>Input Size of images: (60, 1)</li>
+    <li>Input Size: (60, 1)</li>
 </ul>
