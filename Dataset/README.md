@@ -1,4 +1,4 @@
-## Dataset link: https://finance.yahoo.com/quote/TTM/history?p=TTM
+## Dataset link: https://finance.yahoo.com/quote/TATAMOTORS.NS/history?p=TATAMOTORS.NS
 <i> This dataset contains all the previous record of stock price of Tata Motors Company. </i>
 ## To use the dataset in the code you can use this command
 <code> 
